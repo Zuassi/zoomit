@@ -1,0 +1,23 @@
+#zoomit{
+	
+position:fixed;
+box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.3);
+-webkit-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.3);
+background-color:#f8f8f8;
+
+}
+
+.thumbnail{
+	cursor: pointer;
+}
+
+
+#download{
+   margin: 5px;
+   text-align:center;
+
+}
+
+#download a{
+	 color:#3d3d3d;
+}
