@@ -1,7 +1,7 @@
 ZoomIt
 ===
 
-Preview: http://pro.dev.daa.fi/zoomit/
+Preview: http://pro.dev.daa.fi/zoomIt/
 --
 
 Mark your images like 
